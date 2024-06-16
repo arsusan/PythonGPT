@@ -1,2 +1,2 @@
 # PythonGPT
-This is a basic chat bot crated by using chat gpt api in python.
+This is a basic chat bot created by using chat GPT API in Python.
